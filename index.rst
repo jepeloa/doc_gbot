@@ -31,7 +31,7 @@ El funcionamiento del robot esta basado en el uso de ROS en dos CPU. Una encarga
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: ./build_/html/images_/Schematic_gbot_v3.png
+.. image:: ./Schematic_gbot_v3.png
 
 
 .. contents:: Contenido de este documento
